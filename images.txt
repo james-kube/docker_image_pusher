@@ -2,4 +2,6 @@ nginx:latest
 redis
 elasticsearch:7.17.3
 kibana:7.17.3
-https://raw.githubusercontent.com/oceanbase/ob-operator/2.2.0_release/deploy/operator.yaml
+jenkins
+minio
+mysql:5.7.30
