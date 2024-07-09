@@ -2,6 +2,6 @@ nginx:latest
 redis
 elasticsearch:7.17.3
 kibana:7.17.3
-jenkins
+jenkins:2.4.2
 minio
 mysql:5.7.30
