@@ -1,1 +1,1 @@
-gitlab
+ registry.us-east-1.aliyuncs.com/y110/centos-7:latest
