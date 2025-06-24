@@ -1,1 +1,1 @@
-jenkins/jenkins:2.401.2-lts
+sonarqube:9.9.4-community
