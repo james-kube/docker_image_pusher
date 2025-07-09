@@ -1,1 +1,1 @@
-minio/minio:latest
+ghcr.io/dexidp/dex:v2.41.1
