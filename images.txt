@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.29.0-34-gddfc3b1ea724
+calico/node:v3.29.0-34-gddfc3b1ea724
