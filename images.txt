@@ -1,1 +1,1 @@
-ghcr.io/dexidp/dex:v2.41.1
+calico/kube-controllers:v3.29.0-34-gddfc3b1ea724
