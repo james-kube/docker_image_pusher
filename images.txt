@@ -1,1 +1,1 @@
-rancher/rancher:v2.13.0
+docker.io/traefik:v3.6.5
