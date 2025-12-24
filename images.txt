@@ -1,1 +1,1 @@
-docker.io/traefik:v3.6.5
+docker.io/library/nginx:alpine
