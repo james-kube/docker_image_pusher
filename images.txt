@@ -1,1 +1,1 @@
-docker.io/library/nginx:alpine
+hagb/docker-easyconnect
