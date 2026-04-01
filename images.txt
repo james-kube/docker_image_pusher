@@ -1,2 +1,2 @@
-alpine/openclaw:2026.3.11
+elasticsearch:7.6.1
 
