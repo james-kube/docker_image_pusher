@@ -1,2 +1,2 @@
-lmenezes/cerebro:latest
+kibana:7.6.1
 
