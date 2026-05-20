@@ -1,1 +1,1 @@
-grafana/filebeat:latest
+docker.elastic.co/beats/filebeat:8.17.2
