@@ -1,1 +1,1 @@
-busybox
+gitlab/gitlab-ce:17.11.0-ce.0
