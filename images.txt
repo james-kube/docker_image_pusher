@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:17.11.0-ce.0
+jenkins/jenkins:2.549-jdk21
