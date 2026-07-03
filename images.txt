@@ -1,1 +1,1 @@
-jenkins/jenkins:2.549-jdk21
+rabbitmq:3-management
