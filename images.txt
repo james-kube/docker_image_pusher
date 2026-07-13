@@ -1,1 +1,1 @@
-rabbitmq:3-management
+jonnyan404/mrdoc-nginx:0.9.9-with-mysql
