@@ -1,1 +1,1 @@
-jonnyan404/mrdoc-nginx:0.9.9-with-mysql
+zmister/mrdoc:v6
