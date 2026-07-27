@@ -1,1 +1,2 @@
-onlyoffice/documentserver:9.2
+nextcloud:fpm
+onlyoffice/documentserver:latest
