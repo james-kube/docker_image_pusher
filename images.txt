@@ -1,2 +1,2 @@
-nextcloud:fpm
-onlyoffice/documentserver:latest
+nextcloud:33-fpm
+
