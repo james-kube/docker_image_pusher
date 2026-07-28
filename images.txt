@@ -1,2 +1,2 @@
-nextcloud:33-fpm
+zyplayer/zyplayer-do
 
