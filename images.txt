@@ -1,2 +1,2 @@
-zyplayer/zyplayer-do
+zyplayer/zyplayer-doc:latest
 
