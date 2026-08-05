@@ -1,2 +1,2 @@
-rabbitmq:4.3-management
+elasticsearch:9.4.0
 
