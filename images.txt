@@ -1,2 +1,2 @@
-elasticsearch:9.4.0
+elasticsearch:8.19.19
 
