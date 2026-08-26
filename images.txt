@@ -1,2 +1,2 @@
-redis:7.2.14
+xuxueli/xxl-job-admin:2.3.1
 
